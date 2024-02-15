@@ -15,6 +15,6 @@ public class Taran12 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    }vtergwgtebgvfd
+    }
     
 }
